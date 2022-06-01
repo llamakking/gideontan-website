@@ -23,7 +23,7 @@ enableEmoji: true
 
 # Site parameters
 params:
-  # background: "images/profilepic.jpg"
+  background: "images/author/background.jpg"
 
   # GitHub repo URL of your site
   gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
@@ -37,4 +37,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false

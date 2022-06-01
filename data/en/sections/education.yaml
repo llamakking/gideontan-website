@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: B.Sc. in Computer Science
+  icon: fa-graduation-cap
+  timeframe: 2020-2023
+  institution:
+    name: University of Minnesota- Twin Cities
+    url: "https://cse.umn.edu/"
+  grade: #(optional)
+    scale: CGPA
+    achieved: 3.74
+    outOf: 4
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Internet Programming
+    - name: Algorithms and Data Structures
+    - name: Operating Systems
+    - name: Machine Architecture
+    - name: Advanced Programming Principles
+  extracurricularActivities: #(optional)
+  - "App Developers Club: Director of Marketing"
+  - "Code the Gap: Python Instructor"
