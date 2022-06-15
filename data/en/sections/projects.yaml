@@ -35,13 +35,13 @@ projects:
   timeline: "December 2021 - Present"
   repo: "https://github.com/Back-To-Hue/Back_To_Hue"
   summary: A map-oriented application designed to help people stay connected without social media, developed with Flutter by a team of three.
-  tags: ["for fun, flutter, cross-platform"]
+  tags: ["for fun", "flutter", "cross-platform"]
 
 - name: Gopher Bin
   role: Contributor
   timeline: "December 2021 - April 2022"
   summary: A recycling bin that uses an ML model and a Raspberry Pi to determine whether garbage is compostable or not. Prototype created for SASE Labs 2022
-  tags: ["for fun, academic, raspberry pi"]
+  tags: ["for fun", "academic", "raspberry pi"]
 
 - name: Word Search
   role: Developer
@@ -55,4 +55,4 @@ projects:
   timeline: "June 2022"
   repo: "https://github.com/llamakking/gideontan-website"
   summary: This website! Created with Hugo.
-  tags: ["for fun, hugo"]
+  tags: ["for fun", "hugo"]
