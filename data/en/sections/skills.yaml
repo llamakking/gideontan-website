@@ -16,8 +16,6 @@ skills:
 
 - name: Languages
   summary: "Comfortable with coding in Java, Python, C++, and C#, as well as web development languages such as Javascript, HTML, and CSS."
-  url: "https://golang.org/"
-
 - name: Databases
   # logo: "/images/sections/skills/cloud.png"
   summary: "Worked with SQL Server both on prem and on the cloud."
