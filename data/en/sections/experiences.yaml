@@ -23,7 +23,7 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Developed a Blazor web app that allowed internal and external users to download and upload pdfs containing PHI data. Implemented with user authentication/authorization and data access.
-    - Learned to work in an Agile environment, working in a Scrum Team and using Rally.
+    - Learned to work in an Agile environment, working in a scrum team and using Rally.
 
 - company:
     name: Amazon.com, Inc.
