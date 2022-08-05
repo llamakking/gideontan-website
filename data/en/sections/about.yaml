@@ -17,7 +17,7 @@ designation: Software Engineer
 resume: "files/Gideon Tan Resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: "Hi there! I am a student at the University of Minnesota studying Computer Science, and I have done full-stack software engineering as an intern at both Optum and Amazon(though front end is my passion). I have many passions besides software, so feel free to reach out to me and chat about sports, movies, PC's, video games, instruments, philosophy, or pretty much anything at all!"
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -36,12 +36,12 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Team Work
+- name: Teamwork
   percentage: 95
   color: yellow
 - name: Creativity
   percentage: 90
   color: green
-- name: Commnunication
+- name: Communication
   percentage: 85
   color: blue

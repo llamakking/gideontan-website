@@ -11,32 +11,30 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Optum, Inc.
+    url: "https://www.optum.com/"
+    location: Eden Prairie, MN
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Optum, Inc. is a healthcare provider that is improving healthcare delivery and transparency by connecting traditional healthcare with technology and analytics. 
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
+  - designation: Software Engineering Intern
+    start: June 2022
+    end: August 2022
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Developed a Blazor web app that allowed internal and external users to download and upload pdfs containing PHI data. Implemented with user authentication/authorization and data access.
+    - Learned to work in an Agile environment, working in a Scrum Team and using Rally.
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Amazon.com, Inc.
+    url: "https://www.amazon.com/"
+    location: Arlington, VA
+    overview: Amazon is a Big Five technology company that is the world's largest online retailer.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - designation: Software Engineering Intern
+    start: September 2022
+    end: December 2022
+    # responsibilities:
+    # - Write lots of example codes.
+    # - Read lots of examples.
+    # - See lots of example videos.
